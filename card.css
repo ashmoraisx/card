@@ -10,3 +10,25 @@ body{
     align-items: center;
     justify-content: center;
 }
+card{
+
+}
+ .card{
+    background: white;
+    border-radius: 15px;
+    width: 300px;
+    text-aling: center;
+    position: relative;
+}
+.card-header{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50%
+}
+.card-body{
+    padding: 15px;
+}
+.card-body h2{
+    margin-bottom: 5px;
+}
